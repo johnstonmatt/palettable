@@ -16,7 +16,6 @@ export default function Home() {
         {palettable.colors.map((paletted, idx) => {
           const description = Object.keys(paletted)[0];
           const color = paletted[description];
-          console.log(idx, color, description);
           return (
             <section
               style={{
