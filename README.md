@@ -10,7 +10,7 @@ Palettable generates a website that demos all the colors that you like so you ca
 
 All you need to do is fork the repo is give your color a name and color code in `palettable.js`!
 
-If you supply a github username it will also add a link to your github account at the bottom so other people can fork yours and see other stuff you've made
+If you supply a github username it will also add a link to your github account at the bottom so other people can fork yours and find other stuff you've made
 
 ### palettable.js api
 
