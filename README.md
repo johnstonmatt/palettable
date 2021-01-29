@@ -35,4 +35,4 @@ const palettable = {
 export default palettable;
 ```
 
-example at [https://palettable.ma.ttjohnston.com]() !
+example at [https://palettable.ma.ttjohnston.com](https://palettable.ma.ttjohnston.com) !
