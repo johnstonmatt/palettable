@@ -1,5 +1,7 @@
 # palettable
 
+### you have a bunch of colours you like and look them up all the time don't you?
+
 ![website with colors and corresponding hex codes](https://serveon.site/palettable.png)
 
 I found myself frequently using the same colors in apps, which resulted in me frequently opening up my own project implementations to dig for them
