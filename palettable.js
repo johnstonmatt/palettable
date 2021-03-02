@@ -8,10 +8,16 @@ const palettable = {
     },
     { "glade mint": "rgb(78, 205, 196)" },
     {
-      "m@": "#4a148c"
-    }
+      "m@": "#4a148c",
+    },
+    {
+      "untribe primary (nice)": "#6900FF",
+    },
+    {
+      "untribe light": "#A64AFF",
+    },
   ],
-  githubUsername: "johnstonmatt"
+  githubUsername: "johnstonmatt",
 };
 
 export default palettable;
