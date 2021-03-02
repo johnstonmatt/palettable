@@ -16,6 +16,9 @@ const palettable = {
     {
       "untribe light": "#A64AFF",
     },
+    {
+      "untribe dark": "#1400CA",
+    },
   ],
   githubUsername: "johnstonmatt",
 };
