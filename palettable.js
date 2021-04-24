@@ -11,6 +11,9 @@ const palettable = {
       "m@": "#4a148c",
     },
     {
+      "iphone purp": "#bbb2e9",
+    },
+    {
       "untribe primary (nice)": "#6900FF",
     },
     {
