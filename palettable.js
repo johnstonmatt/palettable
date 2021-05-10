@@ -22,7 +22,9 @@ const palettable = {
     {
       "untribe dark": "#1400CA",
     },
-    { "jazzberry jam": "#BOOB69" },
+    {
+      "jazzberry jam": "#B00B69" 
+    },
   ],
   githubUsername: "johnstonmatt",
 };
