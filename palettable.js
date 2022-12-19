@@ -25,6 +25,9 @@ const palettable = {
     {
       "jazzberry jam": "#B00B69" 
     },
+    {
+      "github dark nav purple": "#29233f"
+    },
   ],
   githubUsername: "johnstonmatt",
 };
